@@ -73,6 +73,7 @@
     justify-content: space-around;
     margin-bottom: 1rem;
     padding: .5rem;
+         background: none;
 }
 .buttons button{
     width: 40%;
